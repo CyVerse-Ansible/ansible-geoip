@@ -1,5 +1,4 @@
 ---
-
 galaxy_info:
   author: Jonathan Strootman
   description: Installs the GeoLiteCity database.
