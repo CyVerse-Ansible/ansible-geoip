@@ -1,6 +1,6 @@
 ansible-geoip
 =============
-[![Build Status](https://travis-ci.org/cyverse/ansible-geoip.svg?branch=master)](https://travis-ci.org/cyverse/ansible-geoip)
+[![Build Status](https://travis-ci.org/CyVerse-Ansible/ansible-geoip.svg?branch=master)](https://travis-ci.org/CyVerse-Ansible/ansible-geoip)
 
 Installs the [GeoLiteCity database](https://dev.maxmind.com/geoip/legacy/geolite/).
 
